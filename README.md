@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @judejovan
-- 👀 I’m interested in ...front end dev
-- 🌱 I’m currently learning ... html css JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...jjovan2903@gmail.com
+- 👋 Hi, I’m Jude Jovan
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning  HTML CSS JavaScript
+- 💞️ I’m looking to collaborate on Front End Development Projects
+- 📫 How to reach me @jjovan2903@gmail.com
 
 ## Contact Me ☎️
 <a href="https://www.linkedin.com/in/jude-jovan-249a04204/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

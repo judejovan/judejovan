@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jude Jovan
-- * 🎓 Computer Science Major at Ashesi University, Ghana
+- 🎓 Computer Science Major at Ashesi University, Ghana
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning  HTML CSS JavaScript
 - 💞️ I’m looking to collaborate on Front End Development Projects
